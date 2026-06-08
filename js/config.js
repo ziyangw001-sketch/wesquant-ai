@@ -27,7 +27,7 @@ function resolveApiBase() {
 
 window.WesQuant.config = {
   API_BASE: resolveApiBase(),
-  linkedin: 'https://www.linkedin.com/in/ziyangweng',
+  linkedin: 'https://www.linkedin.com/in/wesley-wang-747b20372/',
   langKey: 'wesquant-lang',
   USE_LIVE_DATA: true,
   DATA_REFRESH_MS: 30000,
